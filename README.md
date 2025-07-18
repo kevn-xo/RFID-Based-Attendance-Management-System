@@ -51,7 +51,7 @@ The system was first tested in a simulated environment. Successful data flow fro
 This project has been formally documented and published in a recognized journal.  
  **Title**: RFID Based Attendance Management System
  **Journal**: Journal of Advanced Research in Embedded Systems
- **Link**: https://thejournalshouse.com/index.php/ADR-Journal-Embedded-Systems/article/view/1306
+ https://thejournalshouse.com/index.php/ADR-Journal-Embedded-Systems/article/view/1306
 
 ---
 
