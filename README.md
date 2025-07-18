@@ -57,8 +57,8 @@ This project has been formally documented and published in a recognized journal.
 
 ##  Author
 
- Kevin Anand Raj 
- Electrical and Electronics Engineering 2026
+ Kevin Anand Raj, 
+ Electrical and Electronics Engineering - 2026,
  Karpagam College of Engineering
 
 ---
